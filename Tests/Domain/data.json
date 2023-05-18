@@ -1,0 +1,46 @@
+{
+  "allowOpen": true,
+  "sheets": [
+    {
+      "name": "Hoja1",
+      "rows": [
+        {
+          "cells": [
+            {
+              "value": "Order ID"
+            },
+            {
+              "value": "Customer ID"
+            },
+            {
+              "value": "Freight"
+            },
+            {
+              "value": "Ship Country"
+            }
+          ],
+          "height": 19
+        },
+        {
+          "cells": [
+            {
+              "value": "10248"
+            },
+            {
+              "value": "VINET"
+            },
+            {
+              "value": "32.38",
+              "format": "$#,##0.00"
+            },
+            {
+              "value": "France"
+            }
+          ],
+          "height": 19
+        }
+      ],
+      "selectedRange": "F5:F5"
+    }
+  ]
+}
